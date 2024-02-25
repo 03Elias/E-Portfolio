@@ -1,2 +1,2 @@
 # MiniProjekt
-Elias och Arons fina miniprojekt
+Elias och Arons miniprojekt
