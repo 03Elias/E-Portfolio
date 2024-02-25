@@ -5,4 +5,4 @@ Majoriteten av uppigfterna är från Civilinegnjör inom informationstekniks pro
 Fritids projekt kan också förekomma. 
 Däremot all kod och implementation som visas är skrivet helt eller delvist av mig i samarbeta med andra studenter beroende på arbetsuppgiften. 
 För navegering:
-Gå in på valfir map som har en beskrivande namn om vad den handlar om där kan du se alla olika ämnen inom IT samt projekt och kursuppgifter som visar konkret på kunskap inom IT området.
+Gå in på valfir repository som har en beskrivande namn om vad den handlar om där kan du se alla olika ämnen inom IT samt projekt och kursuppgifter som visar konkret på kunskap inom IT området.
