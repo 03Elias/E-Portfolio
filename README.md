@@ -1,8 +1,10 @@
 # E-Portfolio
 Här finns konkreta projekt och uppgifter jag har arbetat med som riktar sig mot IT sektorn. 
-Allt från olika programmerings språks uppgifter till stor skaliga projekt så som en mobil applikation. 
-Majoriteten av uppigfterna är från Civilinegnjör inom informationstekniks programmet på KTH men observera att vissa projekt kan ha tilldelats av andra universitet.
+Allt från olika programmeringsspråk uppgifter till storskaliga projekt såsom en mobil applikation. 
+Majoriteten av uppgifterna är från Civilingenjör inom informationstekniks programet på KTH men observera att vissa projekt kan ha tilldelats av andra universitet.
 Fritids projekt kan också förekomma. 
-Däremot all kod och implementation som visas är skrivet helt eller delvist av mig i samarbeta med andra studenter beroende på arbetsuppgiften. 
-För navegering:
-Gå in på valfri repository som har en beskrivande namn om vad den handlar om där kan du se alla olika ämnen inom IT samt projekt och kursuppgifter som visar konkret på kunskap inom IT området.
+Däremot är all kod och implementering som visas skriven helt eller delvis av mig i samarbete med andra studenter beroende på arbetsuppgiften. 
+För navigering:
+Gå in på valfri repository som har ett beskrivande namn om vad den handlar om, där kan du se alla olika ämnen inom IT samt projekt och kursuppgifter som visar konkret kunskap inom IT området.
+
+
